@@ -13,7 +13,6 @@ I am a big believer in the power of teamwork. In today's fast-paced tech world, 
 <p><strong>Versatility Beyond Code:</strong></p>
 Outside the digital realm, I actively participate in outdoor recreation campaigns on the UNCG campus. As an employee of UNCG, I bring a strong work ethic and versatility to the table. In my role as a supervisor, I handle various responsibilities, including managing the opening and closing of campus facilities to ensure the safety of many individuals.
 
-
 For a detailed overview of my professional feats and achievements, I invite you to refer to my resume. It provides a more comprehensive understanding of my experiences and contributions in the realm of facility management and safety.
 
 You can contact me at [svgeorge029@gmail.com](mailto:svgeorge029@gmail.com)
