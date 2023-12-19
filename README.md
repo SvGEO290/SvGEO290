@@ -18,7 +18,7 @@ Outside the digital realm, I actively participate in outdoor recreation campaign
 <p><strong>Internship Pursuit and Career Goals:</strong></p>
 Currently seeking internship opportunities to apply my skills in real-world scenarios. I am eager to contribute to projects, learn from experienced professionals, and enhance my overall proficiency.<br>
 
-<br><p><strong>Connect with Me:</strong></p>
+<p><strong>Connect with Me:</strong></p>
 Explore my portfolio to see my coding journey. If you're interested in a team player who values collaboration and brings a diverse skill set, I invite you to connect. For a deeper insight into my professional accomplishments, please review my resume.<br>
 
 
