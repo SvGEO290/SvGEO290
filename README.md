@@ -1,13 +1,21 @@
-Hi My name is Samuel George
+Hello, my name is Samuel George
 =====================================================================================================================================
 
-Computer Science Student
+Welcome to my portfolio, please take time to see my code and to get to know more about me.  
 ------------------------
 
-I am currently a computer science student at UNCG, and I've been interested in tech for as long as I can remember. I love to continuously expand my skills and learn new things! I take every challenge as an opportunity to grow. I also take part in a lot of outdoor recreation campaigns on my campus alongside being an employee of UNCG. Please feel free to check out my portfolio that showcases code that displays skills I learned and developed over the course of my time as a student, whether that be in class or on my own time.
+Hello, I'm Samuel George, a Computer Science student at UNCG. Tech has been my passion for as long as I can remember, and I thrive on continuously expanding my skills. Any challenges, to me, are just more opportunities for me to grow.
 
-* 🌍  I'm based in North Carolina
-* ✉️  You can contact me at [svgeorge029@gmail.com](mailto:svgeorge029@gmail.com)
+My portfolio showcases a collection of projects that demonstrate the skills I've acquired both in academic settings and during my personal exploration.
+
+I am a big believer in the power of teamwork. In today's fast-paced tech world, I recognize the vital role collaborative efforts play in achieving a better culture in the workplace and the tech world. I find genuine satisfaction in working alongside a team, where the sum is truly greater than its parts. I bring not only technical skills but also a collaborative spirit to any project.
+
+<strong>Versatility Beyond Code:<strong>
+Outside the digital realm, I actively participate in outdoor recreation campaigns on the UNCG campus. As an employee of UNCG, I bring a strong work ethic and versatility to the table. In my role as a supervisor, I handle various responsibilities, including managing the opening and closing of campus facilities to ensure the safety of many individuals.
+
+For a detailed overview of my professional feats and achievements, I invite you to refer to my resume. It provides a more comprehensive understanding of my experiences and contributions in the realm of facility management and safety.
+
+You can contact me at [svgeorge029@gmail.com](mailto:svgeorge029@gmail.com)
 
 ### Skills
 
