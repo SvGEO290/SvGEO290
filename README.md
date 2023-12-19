@@ -23,7 +23,7 @@ Currently seeking internship opportunities to apply my skills in real-world scen
 Explore my portfolio to see my coding journey. If you're interested in a team player who values collaboration and brings a diverse skill set, I invite you to connect. For a deeper insight into my professional accomplishments, please review my resume.<br>
 
 
-My LinkedIn: ___ <br> 
+[My Resume: Click here to see](https://github.com/SvGEO290/Resume/blob/main/SamuelGeorge_Resume2024.pdf)  
 You can contact me at [svgeorge029@gmail.com](mailto:svgeorge029@gmail.com)
 
 ### Skills
