@@ -11,6 +11,7 @@ My portfolio showcases a collection of projects that demonstrate the skills I've
 I am a big believer in the power of teamwork. In today's fast-paced tech world, I recognize the vital role collaborative efforts play in achieving a better culture in the workplace and the tech world. I find genuine satisfaction in working alongside a team, where the sum is truly greater than its parts. I bring not only technical skills but also a collaborative spirit to any project.
 
 <strong>Versatility Beyond Code:<strong>
+
 Outside the digital realm, I actively participate in outdoor recreation campaigns on the UNCG campus. As an employee of UNCG, I bring a strong work ethic and versatility to the table. In my role as a supervisor, I handle various responsibilities, including managing the opening and closing of campus facilities to ensure the safety of many individuals.
 
 For a detailed overview of my professional feats and achievements, I invite you to refer to my resume. It provides a more comprehensive understanding of my experiences and contributions in the realm of facility management and safety.
